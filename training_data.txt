@@ -1,0 +1,10 @@
+Hello, how are you doing today?    greeting
+What is the capital of France?    question
+What time does the restaurant close?    question
+Do you have any recommendations for a good Italian restaurant?    recommendation
+Can you help me with a problem I'm having with my computer?    assistance
+I need to book a flight to New York.    booking
+What's the weather like today?    question
+How do I reset my password?    assistance
+Thank you for your help!    gratitude
+Goodbye!    farewell
